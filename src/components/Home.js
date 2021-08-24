@@ -2,8 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from 'axios';
 import CardApi from './CardApi';
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Login from './Login';
 import { withAuth0 } from '@auth0/auth0-react';
